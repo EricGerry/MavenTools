@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 16 14:32:27 CST 2019
+jackson-annotations-2.8.0.jar>aliyun-repo=
+jackson-annotations-2.8.0-sources.jar>aliyun-repo=
+jackson-annotations-2.8.0.pom>aliyun-repo=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 18:00:33 CST 2019
+dom4j-1.6.1.jar>aliyun-repo=
+dom4j-1.6.1.jar>central=
+dom4j-1.6.1.pom>aliyun-repo=
+dom4j-1.6.1.pom>central=

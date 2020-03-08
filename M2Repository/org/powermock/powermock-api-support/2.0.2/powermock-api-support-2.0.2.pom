@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.powermock</groupId>
+  <artifactId>powermock-api-support</artifactId>
+  <version>2.0.2</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.powermock</groupId>
+      <artifactId>powermock-reflect</artifactId>
+      <version>2.0.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.powermock</groupId>
+      <artifactId>powermock-core</artifactId>
+      <version>2.0.2</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+  <packaging>jar</packaging>
+  <description>PowerMock API Utility classes.</description>
+  <scm>
+    <url>https://github.com/powermock/powermock.git</url>
+  </scm>
+  <issueManagement>
+    <url>https://github.com/powermock/powermock/issues</url>
+    <system>GitHub issues</system>
+  </issueManagement>
+  <ciManagement>
+    <url>https://travis-ci.org/powermock/powermock</url>
+    <system>TravisCI</system>
+  </ciManagement>
+  <contributors>
+    <contributor>
+      <name>Arthur Zagretdinov</name>
+      <url>https://github.com/thekingnothing</url>
+    </contributor>
+    <contributor>
+      <name>Johan Haleby</name>
+      <url>https://github.com/johanhaleby</url>
+    </contributor>
+    <contributor>
+      <name>René Scheibe</name>
+      <url>https://github.com/darxriggs</url>
+    </contributor>
+    <contributor>
+      <name>Henrik Kaipe</name>
+      <url>https://github.com/kaipe</url>
+    </contributor>
+    <contributor>
+      <name>powermock-release-tools</name>
+      <url>https://github.com/powermock-release-tools</url>
+    </contributor>
+    <contributor>
+      <name>Mykhailo Kovalskyi</name>
+      <url>https://github.com/kovalskyi</url>
+    </contributor>
+    <contributor>
+      <name>Evgeny Astafyev</name>
+      <url>https://github.com/astafev</url>
+    </contributor>
+    <contributor>
+      <name>Delyan Kratunov</name>
+      <url>https://github.com/BurntBrunch</url>
+    </contributor>
+    <contributor>
+      <name>Wojtek Wilk</name>
+      <url>https://github.com/wwilk</url>
+    </contributor>
+    <contributor>
+      <name>Ismael Juma</name>
+      <url>https://github.com/ijuma</url>
+    </contributor>
+    <contributor>
+      <name>Henri Tremblay</name>
+      <url>https://github.com/henri-tremblay</url>
+    </contributor>
+    <contributor>
+      <name>Christian Ivan</name>
+      <url>https://github.com/civanyp</url>
+    </contributor>
+    <contributor>
+      <name>PeerHartmann</name>
+      <url>https://github.com/PeerHartmann</url>
+    </contributor>
+    <contributor>
+      <name>valery1707</name>
+      <url>https://github.com/valery1707</url>
+    </contributor>
+    <contributor>
+      <name>stevegilbert23</name>
+      <url>https://github.com/stevegilbert23</url>
+    </contributor>
+    <contributor>
+      <name>sam-ma</name>
+      <url>https://github.com/sam-ma</url>
+    </contributor>
+    <contributor>
+      <name>occho</name>
+      <url>https://github.com/occho</url>
+    </contributor>
+    <contributor>
+      <name>Tomasz Przybyla</name>
+      <url>https://github.com/bsodzik</url>
+    </contributor>
+    <contributor>
+      <name>Tobias Preuss</name>
+      <url>https://github.com/johnjohndoe</url>
+    </contributor>
+    <contributor>
+      <name>Timo Meinen</name>
+      <url>https://github.com/timomeinen</url>
+    </contributor>
+    <contributor>
+      <name>Stefan Birkner</name>
+      <url>https://github.com/stefanbirkner</url>
+    </contributor>
+    <contributor>
+      <name>Sebastian Saip</name>
+      <url>https://github.com/ssaip</url>
+    </contributor>
+    <contributor>
+      <name>Roman Leventov</name>
+      <url>https://github.com/leventov</url>
+    </contributor>
+    <contributor>
+      <name>PowerMock Release Tools</name>
+      <url>https://github.com/powermock-release-tools</url>
+    </contributor>
+    <contributor>
+      <name>Paul Parenko</name>
+      <url>https://github.com/parenko</url>
+    </contributor>
+    <contributor>
+      <name>Mikael</name>
+      <url>https://github.com/eraonel</url>
+    </contributor>
+    <contributor>
+      <name>Marcin Zajączkowski</name>
+      <url>https://github.com/szpak</url>
+    </contributor>
+    <contributor>
+      <name>Kotaro Nanri</name>
+      <url>https://github.com/k-nanri</url>
+    </contributor>
+    <contributor>
+      <name>Katharina Laube</name>
+      <url>https://github.com/klaube</url>
+    </contributor>
+    <contributor>
+      <name>Jorge</name>
+      <url>https://github.com/xp500</url>
+    </contributor>
+    <contributor>
+      <name>Jay Anderson</name>
+      <url>https://github.com/jayanderson</url>
+    </contributor>
+    <contributor>
+      <name>Hüseyin Kartal</name>
+      <url>https://github.com/hsynkrtl</url>
+    </contributor>
+    <contributor>
+      <name>François JACQUES</name>
+      <url>https://github.com/hypnoce</url>
+    </contributor>
+    <contributor>
+      <name>Enrico Olivelli</name>
+      <url>https://github.com/eolivelli</url>
+    </contributor>
+    <contributor>
+      <name>Deniz Arsan</name>
+      <url>https://github.com/denizarsan</url>
+    </contributor>
+    <contributor>
+      <name>Brice Dutheil</name>
+      <url>https://github.com/bric3</url>
+    </contributor>
+    <contributor>
+      <name>Andrei Petcu</name>
+      <url>https://github.com/andreicristianpetcu</url>
+    </contributor>
+    <contributor>
+      <name>stevegilbert23</name>
+      <url>https://github.com/stevegilbert23</url>
+    </contributor>
+    <contributor>
+      <name>sam-ma</name>
+      <url>https://github.com/sam-ma</url>
+    </contributor>
+    <contributor>
+      <name>podarsmarty</name>
+      <url>https://github.com/podarsmarty</url>
+    </contributor>
+    <contributor>
+      <name>gauee</name>
+      <url>https://github.com/gauee</url>
+    </contributor>
+    <contributor>
+      <name>emmaLP</name>
+      <url>https://github.com/emmaLP</url>
+    </contributor>
+    <contributor>
+      <name>beegee1</name>
+      <url>https://github.com/beegee1</url>
+    </contributor>
+  </contributors>
+  <name>PowerMock</name>
+  <url>http://www.powermock.org</url>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>johanhaleby</id>
+      <name>Johan Haleby</name>
+      <email>johan.haleby at jayway.com</email>
+    </developer>
+    <developer>
+      <id>jakr</id>
+      <name>Jan Kronquist</name>
+      <email>jan.kronquist at jayway.com</email>
+    </developer>
+    <developer>
+      <id>thekingnothing</id>
+      <name>Arthur Zagretdinov</name>
+      <email>arthur.zagretdinov at outlook.com</email>
+    </developer>
+  </developers>
+</project>

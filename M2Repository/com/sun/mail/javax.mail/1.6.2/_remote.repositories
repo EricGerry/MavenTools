@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jan 14 14:09:59 CST 2020
+javax.mail-1.6.2.jar>aliyun-repo=
+javax.mail-1.6.2.pom>aliyun-repo=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 17:59:00 CST 2019
+commons-beanutils-1.9.2.jar>aliyun-repo=
+commons-beanutils-1.9.2.jar>central=
+commons-beanutils-1.9.2.pom>central=
+commons-beanutils-1.9.2.pom>aliyun-repo=

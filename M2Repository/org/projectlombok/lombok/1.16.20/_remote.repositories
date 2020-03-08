@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 27 18:20:10 CST 2019
+lombok-1.16.20.pom>aliyun-repo=
+lombok-1.16.20-sources.jar>aliyun-repo=
+lombok-1.16.20.jar>aliyun-repo=

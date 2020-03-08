@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 17:58:21 CST 2019
+junit-4.11.pom>central=
+junit-4.11.jar>aliyun-repo=
+junit-4.11.jar>central=
+junit-4.11.pom>aliyun-repo=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 18 16:11:10 CST 2020
+commons-lang3-3.9.pom>central=
+commons-lang3-3.9.pom>aliyun-repo=
+commons-lang3-3.9.jar>aliyun-repo=
+commons-lang3-3.9.jar>central=

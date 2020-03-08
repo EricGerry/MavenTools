@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 30 17:59:35 CST 2019
+commons-codec-1.9.pom>aliyun-repo=
+commons-codec-1.9.jar>central=
+commons-codec-1.9.jar>aliyun-repo=
+commons-codec-1.9.pom>central=

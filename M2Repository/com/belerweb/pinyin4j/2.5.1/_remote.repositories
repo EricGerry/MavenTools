@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 04 10:01:19 CST 2020
+pinyin4j-2.5.1-sources.jar>aliyun-repo=
+pinyin4j-2.5.1.jar>aliyun-repo=
+pinyin4j-2.5.1.pom>aliyun-repo=

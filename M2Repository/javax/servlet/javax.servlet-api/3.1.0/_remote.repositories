@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 18 16:12:27 CST 2020
+javax.servlet-api-3.1.0.pom>aliyun-repo=
+javax.servlet-api-3.1.0.jar>central=
+javax.servlet-api-3.1.0.jar>aliyun-repo=
+javax.servlet-api-3.1.0.pom>central=

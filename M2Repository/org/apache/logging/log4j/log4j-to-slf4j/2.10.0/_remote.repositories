@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 27 16:34:13 CST 2019
+log4j-to-slf4j-2.10.0.jar>aliyun-repo=
+log4j-to-slf4j-2.10.0.pom>aliyun-repo=
